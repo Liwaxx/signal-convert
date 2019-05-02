@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.recharts-cartesian-axis-tick {
+  font-size: 1.4rem;
+  font-family: Roboto, sans-serif;
+  margin-bottom: 70px;
+}
+
+.card {
+  margin: 25px;
+  padding: 5px;
+  width: 1000px;
+  height: 300px;
+  margin-left: calc(100% - 1200px);
+}
+
+.input {
+  margin: 25px 0px 25px 535px;
+  padding: 15px;
+  width: 250px;
+}
+.logoo{
+  width: 30px;
+  height: 30px;
+  position: relative;
+  right: 5px;
+  margin: 0;
+  padding: 0;
+}
+.kanan{
+  margin-left: 45px;
+}
+.splash{
+  width: 150px;
+  height: 150px;
+  position: relative;
+  padding: 0;
+  margin-bottom: 70px;
+}
+.button {
+  margin-top: 20px;
+}
+.textField {
+  margin-top: 15px;
+}
+.centerLoading {
+  position: absolute;
+  left: 45%;
+  top: 20%;
+}
+
+.loading {
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
